@@ -29,4 +29,3 @@ endef
 
 $(eval $(call BuildPackage,aplay))
 
-
